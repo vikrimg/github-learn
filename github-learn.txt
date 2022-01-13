@@ -1,6 +1,7 @@
 GIThub-learn
 - trial
   *Trial GitHub
+- fundamental data structure
 - asdas
 - new data
 - making file
